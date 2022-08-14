@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: December 2021
 inline: true
 ---
 
-A simple inline announcement.
+[**Jigsaw**](https://arxiv.org/abs/2112.02969) (combining program synthesis with large language models) has been accepted at ICSE'22

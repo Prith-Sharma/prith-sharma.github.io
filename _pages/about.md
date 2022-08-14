@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -9,17 +9,19 @@ profile:
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p></p>
+    <p>Soda Hall</p>
+    <p>Berkeley, California 94709</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at UC Berkeley where I work in Programming Languages and Machine Learning.
+I am particularly interested in how machine learning techniques can be used for developer productivity tools like program analysis, synthesis, and repair (**ML for PL**). 
+I am also excited about how synthesis and verification can help be used in machine learning for designing better generalizing, explainable algorithms and also reasoning about such algorithms (**PL for ML**)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I recieved my undergraduate degree from IIT Bombay where I was advised by Prof. [Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita) on robustness in natural language processing. I also delved quite a bit into computer vision (more specifically human-pose-estimation) with Prof. [Arjun Jain](https://arjunjain.co.in) and Prof. [Abhinav Shrivastava](https://www.cs.umd.edu/~abhinav/). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+After my undergraduate, I spent two amazing years as a predoctoral research fellow at Microsoft Research India where I worked on machine learning and program synthesis. During that tenure, I worked on interesting research problems like program repair with static analysis tools, improving large language models with guarentees, and learning decision trees with bandit feedback. 
