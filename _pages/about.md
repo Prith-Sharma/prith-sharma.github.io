@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: CS Ph.D. at <a href='https://cs.berkeley.edu/'>UC Berkeley</a>. naman_jain (at) berkeley.edu
+subtitle: CS Ph.D. @ <a href='https://cs.berkeley.edu/'>UC Berkeley</a>. naman_jain (at) berkeley.edu
 
 profile:
   align: right
