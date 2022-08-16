@@ -26,6 +26,8 @@ layout: default
               {% include figure.html 
               path=profile_image_path 
               class=profile_image_class
+              width=70%
+              height=70%
               alt=page.profile.image -%}
             {% endif -%}
             {%- if page.profile.address %}
@@ -54,7 +56,7 @@ layout: default
             <!-- Selected papers -->
             {%- include selected_papers.html %}
           {%- endif %}
-          
+
           {%- if page.social %}
           <!-- Social -->
           <div class="social">
