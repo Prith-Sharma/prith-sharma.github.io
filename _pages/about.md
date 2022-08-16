@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student at UC Berkeley where I work in Programming Languages and Machine Learning.
 I am particularly interested in how machine learning techniques can be used for developer productivity tools like program analysis, synthesis, and repair (**ML for PL**). 
-I am also excited about how synthesis and verification can help be used in machine learning for designing better generalizing, explainable algorithms and also reasoning about such algorithms (**PL for ML**)
+I am also excited about how synthesis and verification can help in designing better generalizing and explainable algorithms and also reasoning about such algorithms (**PL for ML**)
 
 I recieved my undergraduate degree from IIT Bombay where I was advised by Prof. [Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita) on robustness in natural language processing. I also delved quite a bit into computer vision (more specifically human-pose-estimation) with Prof. [Arjun Jain](https://arjunjain.co.in) and Prof. [Abhinav Shrivastava](https://www.cs.umd.edu/~abhinav/). 
 
