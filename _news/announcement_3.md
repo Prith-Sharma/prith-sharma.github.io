@@ -1,7 +1,7 @@
 ---
 layout: post
-date: August 2020
+date: August 2022
 inline: true
 ---
 
-Joined Microsoft Research, India as a Research Fellow 
+Joined Microsoft Research, India as a Research Intern
