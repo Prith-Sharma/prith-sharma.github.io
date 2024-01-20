@@ -1,7 +1,7 @@
 ---
 layout: post
-date: October 2021
+date: December 2022
 inline: true
 ---
 
-[Preprint](https://arxiv.org/abs/2102.07567) out on learning decision trees with bandit feedback            
+Paper on Image enhancement using ESRGANs got accepted and was subsequently presented in the IC3I 2022 conference.
