@@ -1,7 +1,7 @@
 github_users:
-  - naman-ntc
+  - PRITH-S07
 
 github_repos:
-  - naman-ntc/Pytorch-Human-Pose-Estimation 
-  - microsoft/JigsawDataset 
-  - naman-ntc/3D-HourGlass-Network
+  - PRITH-S07/Lung-segmentation-using-U-Net
+  - PRITH-S07/Detection-of-Deepfakes
+  - PRITH-S07/NLP_Sentence_Similarity
