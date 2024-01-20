@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Naman
+first_name: Prith
 middle_name: 
-last_name: Jain
-email: naman_jain (at) berkeley.edu
+last_name: Sharma
+email: reachprith7 (at) gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Graduate student at UC Berkeley
+  Upcoming MSAII student at Carnegie Mellon University
 footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
@@ -64,11 +64,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: naman-ntc # your GitHub user name
+github_username: PRITH-S07 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: StringChaos # your Twitter handle
-linkedin_username: naman1205jain # your LinkedIn user name
-scholar_userid: 6oqV3v8AAAAJ # your Google Scholar ID
+twitter_username: # your Twitter handle
+linkedin_username: prith-sharma-760a891b1 # your LinkedIn user name
+scholar_userid: 4scyMqwAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -79,7 +79,7 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
-stackoverflow_id: 7686886 #your stackoverflow id
+stackoverflow_id: #your stackoverflow id
 
 contact_note: >
   Reach out to me via email at naman_jain (at) berkeley.edu
@@ -88,7 +88,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-ECS2BY8XXL # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -218,8 +218,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Jain
-  first_name: [Naman]
+  last_name: Sharma
+  first_name: [Prith]
 
   style: apa
   locale: en
