@@ -1,7 +1,7 @@
 ---
 layout: post
-date: December 2021
+date: August 2023
 inline: true
 ---
 
-[**Jigsaw**](https://arxiv.org/abs/2112.02969) (combining program synthesis with large language models) has been accepted at ICSE'22
+Joined IIIT-Hyderabad as a Junior Research Fellow
